@@ -34,7 +34,7 @@ You can find sample datasets in the data folder. The multinomial and Gaussian da
 
 If you use this code please cite the paper:
 
-Zhou, D., Gao, Y., Paninski, L., 2020. Disentangled sticky hierarchical Dirichlet process hidden Markov model. arXiv preprint arXiv:2004.03019. https://arxiv.org/abs/2004.03019
+Zhou, D., Gao, Y., Paninski, L. Disentangled sticky hierarchical Dirichlet process hidden Markov model. ECML 2020. https://arxiv.org/abs/2004.03019
 
 ## Data sources
 
